@@ -1,0 +1,17 @@
+body {
+  background-image: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+  color: white;
+}
+
+.intro {
+  text-align: center;
+  margin-top: 2%;
+}
+
+#img {
+  margin-top: 19%;
+}
+
+#colOne {
+  margin-top:15%;
+}
